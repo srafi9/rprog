@@ -27,6 +27,7 @@ makeCacheMatrix <- function(x = matrix()) {
         inv
     }
     
+    
 
     # return the special matrix
     list(set = set,
